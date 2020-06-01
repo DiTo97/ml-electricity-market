@@ -5,8 +5,8 @@ University of Genoa 90948, Machine Learning. Final project, Fall 2019.
 <br>
 [Live Notebook](https://colab.research.google.com/drive/1VTr14Lc-uP8Ss2yH9bPq1lknbLg1tH3u?usp=sharing) on Colab
 
-
 <br>
+
 <b>Abstract</b>
 
 We present a pair-project in which we tackle the same problem proposed by the
