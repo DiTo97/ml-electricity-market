@@ -1,6 +1,6 @@
 # Machine Learning methods for the electricity market
 
-University of Genoa 90948, Machine Learning. Final project, Fall 2019.
+Machine Learning: University of Genoa (90948) - Fall 2019 - Final project
 
 <br>
 
