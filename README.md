@@ -1,14 +1,8 @@
-# Machine Learning methods for the electricity market
+# Machine Learning Methods for the Electricity Market
 
 Machine Learning: University of Genoa (90948) - Fall 2019 - Final project
 
-<br>
-
-[Live Notebook](https://colab.research.google.com/drive/1VTr14Lc-uP8Ss2yH9bPq1lknbLg1tH3u?usp=sharing) on Colab
-
-<br>
-
-<b>Abstract</b>
+**Abstract**
 
 We present a pair-project in which we tackle the same problem proposed by the
 IREN company during C1A0 Hackathon. We tried to mix project of types 1 and 2
@@ -21,3 +15,10 @@ boosting (by Federico Minutoli). Both of the algorithms have been implemented fr
 The structure of the code is presented in the notebook file Code/Problem.ipynb as
 well as its use to solve the main problem. Results and comparisons of the methods
 are provided.
+
+<br>
+
+[Live Notebook](https://colab.research.google.com/drive/1VTr14Lc-uP8Ss2yH9bPq1lknbLg1tH3u?usp=sharing) on Colab
+
+<br>
+
