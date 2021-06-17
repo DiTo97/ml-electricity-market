@@ -15,3 +15,5 @@ All of these factors greatly influence the understanding of the MGP chain.
 ## Folder structure
 
 - `code` folder contains the Random forest and the Gradient boosting implementations from scratch as well as a notebook to play with, _Problem.ipynb_, with all the key experiments that we ran on the MGP data culminating in the comparison with LightGBM in terms of RMSE of the MGP values.
+
+- `report` folder contains a short written report presenting an in-depth description of the problem, of the Random forest and Gradient boosting algorithms, with all their strengths and shortcomings in modelling such a scenario, and of all the experiments that we ran on the MGP data by IREN.
