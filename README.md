@@ -8,7 +8,7 @@ During the C1A0 hackathon we were asked to design an AI model able to predict th
 
 ## MGP
 
-The Day-ahead Market (or Mercato del Giorno Prima, MGP, in Italian), is the market designed for trading electricity supply offers and demand bids for each hour of the next day in Italy. All major electricity operators may participate in the MGP by submitting offers (bids) where they specify the quantity and the minimum (maximum) price they are willing to sell (purchase). The accepted offers are those with a submitted price not larger than the marginal clearing price (MGP), obtained from the intersection of the demand and supply curves. The accepted bids are similarly those with a submitted price not lower than the daily-agreed National Single Price (or Prezzo Unico Nazionale, PUN).
+The Day-ahead Market (or Mercato del Giorno Prima, MGP, in Italian), is the market designed for trading electricity supply offers and demand bids for each hour of the next day in Italy. All major electricity operators may participate in the MGP by submitting offers (bids) where they specify the quantity and the minimum (maximum) price they are willing to sell (purchase). The accepted offers are those with a submitted price not larger than the marginal clearing price (MGP) obtained from the intersection of the demand and supply curves. The accepted bids are similarly those with a submitted price not lower than the daily-agreed National Single Price (or Prezzo Unico Nazionale, PUN).
 
 All of these factors greatly influence the understanding of the MGP chain.
 
