@@ -6,6 +6,8 @@ We present a pair-project in which we tackle the same problem proposed by the [I
 
 During the C1A0 hackathon we were asked to design an AI model able to predict the day-ahead market (MGP) for the subsequent lag of 14 days. At the time, we used the LightGBM algorithm as its speed was very well suited for a competitive setting. This project, instead, focuses more on gaining a deeper understanding of its capabilities.
 
+**Please note:** Some key data files may be missing due to storage constraints by GitHub. If the experiments cannot be completed succesfully for this very reason, please contact any of the two authors to get all the missing pieces.
+
 ## MGP
 
 The Day-ahead Market (or Mercato del Giorno Prima, MGP, in Italian), is the market designed for trading electricity supply offers and demand bids for each hour of the next day in Italy. All major electricity operators may participate in the MGP by submitting offers (bids) where they specify the quantity and the minimum (maximum) price they are willing to sell (purchase). The accepted offers are those with a submitted price not larger than the marginal clearing price (MGP) obtained from the intersection of the demand and supply curves. The accepted bids are similarly those with a submitted price not lower than the daily-agreed National Single Price (or Prezzo Unico Nazionale, PUN).
